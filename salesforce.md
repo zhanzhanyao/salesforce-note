@@ -5,7 +5,7 @@
 - Salesforce企业软件，Saas(软件即服务)，软件在云端
 - History of CRM  
 
-![timeline](timeline_of_CRM.png)
+![timeline](image/timeline_of_CRM.png)
   
 ## 为什么使用CRM？
 - Salesforce中的术语
@@ -19,12 +19,12 @@
 - 销售人员分组，寻找最佳销售
 - 行业、公司规模分组，寻找销售对象
 - SOQL语句查询，自动生成报告
-## 为什么是salesforce？
+## 为什么是Salesforce？
 - 每一个生意都是不同的，标准化的模式达不到要求
 - Salesforce具有灵活性，可自定义数据模型和视图
 - Salesforce不仅是CRM，更像是创建CRM应用的平台
 - History of Salesforce  
 
-![timeline](history_of_salesforce.png)
+![timeline](image/history_of_salesforce.png)
 
 

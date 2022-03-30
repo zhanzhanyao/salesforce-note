@@ -1,4 +1,4 @@
-# Salesforce Basic
+# Salesforce Basis
 - CRM (Customer-relationship management)  
 - CRM是用户数据及用户联系的可信数据集合
 - Salesforce开发

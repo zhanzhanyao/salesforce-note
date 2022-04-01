@@ -48,7 +48,7 @@ Apex语言数据类型包括三类：
 ### 开发工具
 Salesforce自带的控制台工具，还可以使用VSCode、Eclipse、Sublime等工具进行Salesfoce开发
 
-### Visual Page
+## Visual Page
 Visual Page类似于普通Web Page，包含的内容不限于HTML、CSS、JS等资源。我们写的Visualforce Page存储在服务器端，当用户通过url访问的时候，会被渲染成普通的Web Page,供需求用户访问
 - Page的运行原理
   ![visual_page_runs](image/visual_page_runs.png)

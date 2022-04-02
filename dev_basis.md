@@ -1,4 +1,4 @@
-# Salesforce Basis--Dev
+# Salesforce Basis--Dev 
 - Salesforce开发的核心任务是使组织可以将Salesforce扩展到声明式点击配置之外，构建应用程序，进而优化业务运营。  
 - 初级开发人员：0~2年经验。根据特定要求编写代码（例如，基础的Apex Triggers）；测试。  
 - 初级开发人员需要帮助不断改进和增强组织的Salesforce平台。任务可能包括：

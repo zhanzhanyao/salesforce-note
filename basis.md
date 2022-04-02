@@ -27,4 +27,14 @@
 
 ![timeline](image/history_of_salesforce.png)
 
+## Salesforce开发是什么
+- 开发时需要服务器（存储程序供外部访问），程序，编译解释器（将代码转换为机器识别的语言），数据库（供程序存储查询数据）。Salesforce继承了后台数据库，服务器，Force.com平台提供程序编写入口，与提供客户常用的功能。
+- 多租户：它允许企业或者个人申请Salesforce org环境，只需要一个用户名和密码就可以针对自己的org进行个性化定制使用。  
+
+## Force.com
+Force.com 是 Salesforce 整体架构的核心模块；因为它首先整合和控制了底层的物理的基础设施（网络、内存、数据库等），接着给上层的Sales Cloud，Service Cloud，Chatter和基于Force.com的定制应用提供PaaS服务，最后，那些Force.com上层的应用以SaaS形式供用户使用。作为Salesforce开发人员，是在基于Force.com的平台上定制开发应用，可以理解为Force.com是Salesforce向开发人员开放的程序接口。    
+
+![Salesforce_structure](image/Salesforce_structure.png)
+
+
 
